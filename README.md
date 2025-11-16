@@ -144,6 +144,7 @@ All our documentation and guides are now located in the `docs/` directory. This 
 
 | Document | Description |
 |----------|-------------|
+| [CLAUDE.md](CLAUDE.md) | **Comprehensive guide for AI assistants** - codebase structure, workflows, and conventions |
 | [AI_IMPLEMENTATION_GUIDE.md](docs/AI_IMPLEMENTATION_GUIDE.md) | AI-driven organization management guide |
 | [BRANCH_PROTECTION.md](docs/BRANCH_PROTECTION.md) | Branch protection rules and configuration |
 | [REPOSITORY_SETUP_CHECKLIST.md](docs/REPOSITORY_SETUP_CHECKLIST.md) | New repository setup checklist |
@@ -224,18 +225,14 @@ Comprehensive guides for maintaining high-quality repositories:
 
 | Document | Description |
 |----------|-------------|
-| [AI_IMPLEMENTATION_GUIDE.md](AI_IMPLEMENTATION_GUIDE.md) | AI-driven organizat
-ion management guide |
-| [REPOSITORY_PURPOSE_ANALYSIS.md](REPOSITORY_PURPOSE_ANALYSIS.md) | Analysis of
- repository appropriateness for function set |
-| [BRANCH_PROTECTION.md](BRANCH_PROTECTION.md) | Branch protection rules and con
-figuration |
-| [REPOSITORY_SETUP_CHECKLIST.md](REPOSITORY_SETUP_CHECKLIST.md) | New repositor
-y setup checklist |
+| [CLAUDE.md](CLAUDE.md) | **Comprehensive guide for AI assistants** - codebase structure, workflows, and conventions |
+| [AI_IMPLEMENTATION_GUIDE.md](AI_IMPLEMENTATION_GUIDE.md) | AI-driven organization management guide |
+| [REPOSITORY_PURPOSE_ANALYSIS.md](REPOSITORY_PURPOSE_ANALYSIS.md) | Analysis of repository appropriateness for function set |
+| [BRANCH_PROTECTION.md](BRANCH_PROTECTION.md) | Branch protection rules and configuration |
+| [REPOSITORY_SETUP_CHECKLIST.md](REPOSITORY_SETUP_CHECKLIST.md) | New repository setup checklist |
 | [LABELS.md](LABELS.md) | Standard label set for consistent tagging |
 | [TESTING.md](TESTING.md) | Testing standards and best practices |
-| [for-ai-implementation.txt](for-ai-implementation.txt) | Complete AI GitHub ma
-nagement protocol |
+| [for-ai-implementation.txt](for-ai-implementation.txt) | Complete AI GitHub management protocol |
 
 ### Organization Profile
 
