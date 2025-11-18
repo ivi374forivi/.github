@@ -8,22 +8,43 @@ software and inclusive community practices.
 
 ## 📖 About This Repository
 
-This is the special `.github` repository for our organization. It serves as the
-central hub for:
+This is the **special `.github` repository** for the `ivi374forivi` organization. It serves as the central hub for organization-wide:
 
-- **Default community health files** that apply to all repositories
+- **Default community health files** (CODE_OF_CONDUCT, CONTRIBUTING, SECURITY, etc.)
 - **Standardized templates** for issues and pull requests
 - **Reusable workflow templates** for CI/CD and automation
-- **Organization-wide configuration** and documentation standards
+- **GitHub Copilot customizations** (agents, instructions, prompts, chat modes)
 - **Living Document System** - AI-driven governance and management protocols
+- **Organization-wide configuration** and documentation standards
 
-When a repository in our organization doesn't have its own community health file
-s, GitHub automatically uses the defaults from this repository.
+When a repository in the organization doesn't have its own community health file, GitHub automatically uses the defaults from this repository.
 
-> **Is this the right repository for these functions?** See our [Repository Purp
-ose Analysis](REPOSITORY_PURPOSE_ANALYSIS.md) for a detailed explanation of why
-this `.github` repository is the appropriate location for organization-wide gove
-rnance, templates, and the Living Document System.
+### Core Functions
+
+1.  **Organization Defaults Provider**
+    *   Provides default community health files for all repositories
+    *   Supplies issue and PR templates
+    *   Offers reusable workflow templates
+
+2.  **GitHub Copilot Enhancement Hub**
+    *   Custom agents for specialized AI assistance
+    *   Language/framework-specific instructions
+    *   Task-specific prompts
+    *   Role-based chat modes
+    *   Curated collections
+
+3.  **AI Management Center**
+    *   Implements 8-module AI GitHub management protocol
+    *   Automated governance and compliance
+    *   Security and quality automation
+    *   Strategic analysis and risk mitigation
+
+4.  **Documentation Central**
+    *   Comprehensive guides and best practices
+    *   Organization standards and conventions
+    *   Developer onboarding resources
+
+> **Is this the right repository for these functions?** See our [Repository Purpose Analysis](REPOSITORY_PURPOSE_ANALYSIS.md) for a detailed explanation of why this `.github` repository is the appropriate location for organization-wide governance, templates, and the Living Document System.
 
 ## 🎯 Our Mission
 
@@ -144,7 +165,10 @@ All our documentation and guides are now located in the `docs/` directory. This 
 
 | Document | Description |
 |----------|-------------|
-| [CLAUDE.md](CLAUDE.md) | **Comprehensive guide for AI assistants** - codebase structure, workflows, and conventions |
+| [AI_ASSISTANT_GUIDE.md](AI_ASSISTANT_GUIDE.md) | **Comprehensive guide for AI assistants** |
+| [STYLE_GUIDE.md](STYLE_GUIDE.md) | **Documentation style guide** |
+| [WORKFLOWS.md](WORKFLOWS.md) | **High-level overview of GitHub Actions workflows** |
+| [CODEBASE.md](CODEBASE.md) | **Overview of the codebase structure** |
 | [AI_IMPLEMENTATION_GUIDE.md](docs/AI_IMPLEMENTATION_GUIDE.md) | AI-driven organization management guide |
 | [BRANCH_PROTECTION.md](docs/BRANCH_PROTECTION.md) | Branch protection rules and configuration |
 | [REPOSITORY_SETUP_CHECKLIST.md](docs/REPOSITORY_SETUP_CHECKLIST.md) | New repository setup checklist |
@@ -218,21 +242,6 @@ ion for:
   - Docker
   - Go modules
   - Composer (PHP)
-
-### Documentation & Guides
-
-Comprehensive guides for maintaining high-quality repositories:
-
-| Document | Description |
-|----------|-------------|
-| [CLAUDE.md](CLAUDE.md) | **Comprehensive guide for AI assistants** - codebase structure, workflows, and conventions |
-| [AI_IMPLEMENTATION_GUIDE.md](AI_IMPLEMENTATION_GUIDE.md) | AI-driven organization management guide |
-| [REPOSITORY_PURPOSE_ANALYSIS.md](REPOSITORY_PURPOSE_ANALYSIS.md) | Analysis of repository appropriateness for function set |
-| [BRANCH_PROTECTION.md](BRANCH_PROTECTION.md) | Branch protection rules and configuration |
-| [REPOSITORY_SETUP_CHECKLIST.md](REPOSITORY_SETUP_CHECKLIST.md) | New repository setup checklist |
-| [LABELS.md](LABELS.md) | Standard label set for consistent tagging |
-| [TESTING.md](TESTING.md) | Testing standards and best practices |
-| [for-ai-implementation.txt](for-ai-implementation.txt) | Complete AI GitHub management protocol |
 
 ### Organization Profile
 

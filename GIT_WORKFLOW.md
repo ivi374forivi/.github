@@ -85,6 +85,20 @@ feature/add-dark-mode
 - **Base**: Created from `develop`
 - **Merge to**: `develop`
 
+### AI-Specific Branch Naming
+
+For Claude Code sessions, branches follow the pattern:
+```
+claude/claude-md-<session-id>-<unique-id>
+```
+
+**CRITICAL**: When pushing, always use:
+```bash
+git push -u origin <branch-name>
+```
+
+Branches MUST start with `claude/` and end with matching session ID, or push will fail with 403.
+
 ---
 
 ## Commit Conventions
